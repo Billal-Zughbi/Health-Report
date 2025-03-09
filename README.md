@@ -18,6 +18,26 @@ The Python script extracts data from Apple Health's XML export format and proces
 4. **Exporting to CSV**  
    The script organizes the extracted data into CSV files for each health metric, making the data ready for analysis in Power BI.
 
+## Report Overview
+
+Below are the four main sections of the Power BI report, each providing insights into different aspects of health data:
+
+### **1. Energy & Activity Overview**
+![Energy & Activity Overview](https://github.com/Billal-Zughbi/Health-Report/blob/main/images/energyscreenshot.png)
+This section visualizes metrics like active energy burned, exercise minutes, and flights climbed over time.
+
+### **2. Cardiovascular Metrics**
+![Cardiovascular Metrics](https://github.com/Billal-Zughbi/Health-Report/blob/87efba8d44f5fa414c86ced8c59b7d3941115e01/images/cardiovascularscreenshot.png)
+This section focuses on heart health, displaying trends in resting heart rate, high heart rate events, and heart rate recovery.
+
+### **3. Mobility & Movement**
+![Mobility & Movement](https://github.com/Billal-Zughbi/Health-Report/blob/main/images/mobilityscreenshot.png)
+This section highlights step count, walking asymmetry, and other mobility-related factors.
+
+### **4. Physical & Environmental Factors**
+![Physical & Environmental Factors](https://github.com/Billal-Zughbi/Health-Report/blob/main/images/physicalscreenshot.png)
+This section explores environmental influences such as noise exposure and other external health indicators.
+
 ## Power BI Dashboard
 
 The Power BI dashboard is designed to visualize the structured data created by the Python script. Key features of the dashboard include:
